@@ -1,0 +1,7 @@
+include *.txt
+recursive-include docs *.txt
+
+classifiers=[
+    'Programming Language :: Python :: 2.6',
+    'Programming Language :: Python :: 2.7',
+],
