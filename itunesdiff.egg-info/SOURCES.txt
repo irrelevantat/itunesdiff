@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+itunesdiff/__init__.py
+itunesdiff.egg-info/PKG-INFO
+itunesdiff.egg-info/SOURCES.txt
+itunesdiff.egg-info/dependency_links.txt
+itunesdiff.egg-info/entry_points.txt
+itunesdiff.egg-info/not-zip-safe
+itunesdiff.egg-info/top_level.txt

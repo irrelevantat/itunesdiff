@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: itunesdiff
+Version: 0.1dev-r0
+Summary: Diffs two iTunes XML files
+Home-page: UNKNOWN
+Author: Sebastian Hojas
+Author-email: later@irrelevant.at
+License: MIT
+Description: UNKNOWN
+Keywords: iTunes diff
+Platform: UNKNOWN
