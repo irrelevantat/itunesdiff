@@ -10,15 +10,17 @@ setup(name='itunesdiff',
       keywords='iTunes diff',
       author='Sebastian Hojas',
       author_email='later@irrelevant.at',
-      url='',
+      url='https://github.com/Sebastian-Hojas/itunesdiff',
       license='MIT',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          "libpytunes >= 1.0.1"
+          "libpytunes"
       ],
+      python_requires="=2.7",
       entry_points = {
           "console_scripts": ['itunesdiff = itunesdiff.__main__:main']
       },
+      dependency_links = ['git://github.com/liamks/libpytunes@26b48c5#egg=libpytunes']
       )

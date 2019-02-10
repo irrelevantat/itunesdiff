@@ -1,1 +1,1 @@
-
+git://github.com/liamks/libpytunes@26b48c5#egg=libpytunes
